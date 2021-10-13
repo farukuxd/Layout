@@ -1,0 +1,76 @@
+.header{
+    min-height: 50px;
+    background-color: #1C1D1F;
+}
+
+.slider{
+    overflow: hidden;
+}
+.slide1{
+    min-height: 500px;
+    background-color: #4332F4;
+    width: 60%;
+    float: left;
+}
+.slide2{
+    min-height: 500px;
+    background-color: #161718;
+    width: 40%;
+    float: right;
+}
+
+.services{
+    overflow: hidden;
+}
+.service1{
+    min-height: 350px;
+    background-color: #0f0e16;
+    width: 33.33%;
+    float: left;
+}
+.service2{
+    min-height: 350px;
+    background-color: #191824;
+    width: 33.33%;
+    float: left;
+
+}
+.service3{
+    min-height: 350px;
+    background-color: #0f0e16;
+    width: 33.33%;
+    float: left;
+}
+
+.portfolio{
+    overflow: hidden;
+}
+.portfolio1{
+    min-height: 250px;
+    background-color: #4332F4;
+    width: 25%;
+    float: left;
+}
+.portfolio2{
+    min-height: 250px;
+    background-color: #161718;
+    width: 25%;
+    float: left;
+}
+.portfolio3{
+    min-height: 250px;
+    background-color: #4332F4;
+    width: 25%;
+    float: left;
+}
+.portfolio4{
+    min-height: 250px;
+    background-color: #161718;
+    width: 25%;
+    float: left;
+}
+
+.footer{
+    min-height: 250px;
+    background-color: black;
+}
